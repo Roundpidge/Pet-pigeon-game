@@ -1,0 +1,19 @@
+Each option explained
+-----------------------
+1-Adoption center --> This is where you start your game, by adopting 1 of pigeons, maximum number of pets you can adopt is 3.
+once satisfied with pigeon of a choice type their name, your pet's hunger, thirst, hapiness and health are set at max(100) afterwards.
+
+2-My pet pigeon(s)-->This option gives you all information about your pet(s)(name, age, color, hunger, thirst, hapiness, health) aswell as interactions for your pet you can choose from, some interactions have effects like making your pet hungrier or more dehydrated, some other satisfy your pet's hunger or thirst, if your pet has hunger and thirst of 0, they'll lose -10 in health everytime you roll this option. After hitting option '6-Exit', game will automatically add another day, every 4 days your pet(s) have a tendency to escape, when that happens this game automatically skips this option, this option can be used when your days can't be divided by 4(day:4).
+
+3-Supermarket & Drugstore-->This is where you buy food(supermarket) and medicine(drugstore), type number  for store of choice, once in supermarket or in drugstore you have 3 products to chose from. Once chosen, game will automatically return you to this option, if you want to exit from this option type number 3.
+
+4-Work-->This is where you earn your cash, this option automatically gives you +30 cash, however it also lowers your pet's hunger and thirst by -10.
+
+
+
+That's it, have fun :)!
+
+
+
+
+ 
